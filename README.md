@@ -24,7 +24,7 @@ npm start
 ```
 
 ## Demo en vivo
-[Ver demo](https://tu-usuario.github.io/tic-tac-toe-react/) <!-- Si tienes GitHub Pages -->
+[Ver demo](https://yamilhallalhernandez2001.github.io/TicTacToeReactProject/) <!-- Si tienes GitHub Pages -->
 
 ## Licencia
 MIT
